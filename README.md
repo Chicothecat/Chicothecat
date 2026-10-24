@@ -12,7 +12,7 @@ I'm a Cybersecurity student at Posts and Telecommunications Institute of Technol
 
 ✉️ Contact: Open for work opportunities and collaboration. Drop me an email!
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies: python, Mysql, Linux
 
 AI & Development
 
