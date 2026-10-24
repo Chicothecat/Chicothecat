@@ -16,4 +16,3 @@ I'm a Cybersecurity student at Posts and Telecommunications Institute of Technol
 
 AI & Development
 
-![Python](https://img.shields.io/badge/Python-3776AB
